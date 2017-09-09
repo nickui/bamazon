@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,beer,alcohol,8.99,12
+2,"winesalsaguacamoletortilla chipsred solo cupsblenderhammerping pong ballswine",alcohol,19.99,50
+3,salsa,food,3.49,15
+4,guacamole,food,5.99,10
+5,"tortilla chips",food,3.99,40
+6,"red solo cups","home & kitchen",12.49,50
+7,blender,"home & kitchen",249.99,5
+8,hammer,tools,12.5,50
+9,"ping pong balls","sports & fitness",4.99,30
+10,"party favors","toys & games",3.99,40
